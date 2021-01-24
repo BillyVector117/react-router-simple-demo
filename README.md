@@ -1,3 +1,4 @@
+#react #react-router-dom #component #styled-components #single-page-application #JavaScript
 Simple demo using react-router-dom and styled-components
 ![react-react-router-dom-1](https://github.com/BillyVector117/react-router-simple-demo/blob/main/Screenshot_1.png)
 ![react-react-router-dom-2](https://github.com/BillyVector117/react-router-simple-demo/blob/main/Screenshot_2.png)
